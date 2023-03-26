@@ -1,4 +1,4 @@
-Name: Run shell commands in GitHub action
+name: Run shell commands in GitHub action
 on:
   - push
 jobs:
