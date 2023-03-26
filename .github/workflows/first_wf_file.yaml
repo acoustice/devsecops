@@ -7,3 +7,4 @@ jobs:
     steps:
       - name: Echo a string
         run: echo "Hello, this is from GitHub Actions workflow file"
+             cat /etc/os-release
