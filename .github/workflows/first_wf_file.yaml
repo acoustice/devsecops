@@ -1,4 +1,3 @@
----
 Name: Run shell commands in GitHub action
 on:
   - push
@@ -7,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo a string
-        run: echo "Hello, this is from GitHub Actions workflow files"
+        run: echo "Hello, this is from GitHub Actions workflow file"
